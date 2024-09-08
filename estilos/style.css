@@ -81,9 +81,9 @@ div.campo > label {
 div.campo > i {
     /*background-color: black;*/
     color: white;
-    font-size: 2em;
+    font-size: 1.4em;
     width: 40px;
-    padding: 0px;
+    padding: 5px;
 
 }
 
