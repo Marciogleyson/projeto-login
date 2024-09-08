@@ -45,7 +45,7 @@ section#login > div#imagem {
     background: #5f2c82 url(../imagem/matrix.png) no-repeat  center;
     background-size: cover;
     background-position: center;
-    height: 200px;
+    height: 150px;
 }
 
 section#login > div#formulario {
