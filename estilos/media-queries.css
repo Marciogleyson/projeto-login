@@ -47,7 +47,7 @@
     }
 
     section#login > div#formulario {
-        float: right;
+        float: left;
         width: 50%;
         
     }
