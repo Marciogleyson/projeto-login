@@ -36,12 +36,12 @@
     }
 
     section#login {
-        width: 990px;
-        height: 500px;
+        width: 950px;
+        
     }
 
     section#login > div#imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
