@@ -144,5 +144,18 @@ form > a.botao > i {
     font-size: 0.8;
 }
 
+footer {
+    text-align: center;
+}
+
+footer a:hover {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
 
 
